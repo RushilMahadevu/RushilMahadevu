@@ -20,6 +20,6 @@ I'm a 14-year-old developer passionate about web development and algorithms.
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushilMahadevu&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushilMahadevu&layout=compact&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RushilMahadevu&theme=dark)](https://git.io/streak-stats)
+![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RushilMahadevu&repo=Kalimu&theme=dark)
