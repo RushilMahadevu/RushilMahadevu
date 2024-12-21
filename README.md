@@ -8,6 +8,7 @@ I'm a 14-year-old developer passionate about web development and algorithms.
 - 💻 **LeetCode Archive**: Personal collection of LeetCode solutions (Python)
 - ➗ **React-SSS**: Square root calculator via successive subtraction (JavaScript)
 - ⏲️ **React-Pomodoro**: Simple pomodoro timer (JavaScript)
+- 🗂️ **PyNavFS**: File Explorer System in terminal (Python)
 
 ## Skills
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
