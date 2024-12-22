@@ -2,6 +2,7 @@
 
 I'm a 14-year-old developer passionate about web development and algorithms.
 
+
 ## Projects
 - 🎓 **Kalimu**: AI-powered education roadmap (JavaScript)
 - 🗺️ **RB-BFS-MazeEngine**: Maze solver using recursive backtracking and BFS (Python)
@@ -9,6 +10,7 @@ I'm a 14-year-old developer passionate about web development and algorithms.
 - ➗ **React-SSS**: Square root calculator via successive subtraction (JavaScript)
 - ⏲️ **React-Pomodoro**: Simple pomodoro timer (JavaScript)
 - 🗂️ **PyNavFS**: File Explorer System in terminal (Python)
+
 
 ## Skills
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
@@ -20,7 +22,12 @@ I'm a 14-year-old developer passionate about web development and algorithms.
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
 
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushilMahadevu&layout=compact&theme=dark)
 
-![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RushilMahadevu&repo=Kalimu&theme=dark)
+<div align="center">
+  
+## GitHub Stats
+
+![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=RushilMahadevu&theme=react&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushilMahadevu&layout=compact&theme=react&hide_border=true) 
+</div>
