@@ -25,9 +25,7 @@ I'm a 14-year-old developer passionate about web development and algorithms.
 
 <div align="center">
   
-## GitHub Stats
+## Language Overview
 
-![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=RushilMahadevu&theme=react&hide_border=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushilMahadevu&layout=compact&theme=react&hide_border=true) 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@42420da7-f40d-4a0b-a1c8-c1c1c8d2557b/5070d0f8-5a43-4889-8ad5-4ae94a9548e5.png" /></a>
 </div>
