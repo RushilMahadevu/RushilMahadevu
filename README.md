@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm a 14-year-old developer passionate about web development and algorithms.
+I'm a 14-year-old developer who likes web development, algorithms, and python.
 
 
 ## Projects
