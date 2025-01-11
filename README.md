@@ -13,15 +13,15 @@ I'm a 14-year-old developer who likes web development, algorithms, and python.
 
 
 ## Skills
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=flat&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
-
+[![LeetCode 🔗](https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/RushilMahadevu/)
+![React](https://img.shields.io/badge/React-%23000000.svg?style=flat&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23000000.svg?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23000000.svg?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23000000.svg?style=flat&logo=firebase&logoColor=white)
 
 <div align="center">
   
