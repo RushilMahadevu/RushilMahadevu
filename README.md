@@ -7,14 +7,13 @@ I'm a 14-year-old developer who likes web development, algorithms, and python.
 
 <br />
 
-## 📽️ Projects
-- 🎓 **Kalimu**: AI-powered education roadmap (JavaScript)
-- 🗺️ **RB-BFS-MazeEngine**: Maze solver using recursive backtracking and BFS (Python)
-- 💻 **LeetCode Archive**: Personal collection of LeetCode solutions (Python)
-- ➗ **React-SSS**: Square root calculator via successive subtraction (JavaScript)
-- ⏲️ **React-Pomodoro**: Simple pomodoro timer (JavaScript)
-- 🗂️ **PyNavFS**: File Explorer System in terminal (Python)
-
+## 📽️ Projects 
+- 🎓 **[Kalimu](https://github.com/RushilMahadevu/kalimu)** | AI-powered education roadmap (JavaScript)
+- 🗺️ **[RB-BFS-MazeEngine](https://github.com/RushilMahadevu/LeetCode)** | Maze solver using recursive backtracking and BFS (Python)
+- 💻 **[LeetCode](https://github.com/RushilMahadevu/LeetCode)** | Personal collection of LeetCode solutions (Python)
+- ➗ **[React-SSS](https://github.com/RushilMahadevu/react-sss)** | Square root calculator via successive subtraction (JavaScript)
+- ⏲️ **[React-Pomodoro](https://github.com/RushilMahadevu/react-pomodoro)** | Simple pomodoro timer (JavaScript)
+- 🗂️ **[PyNavFS](https://github.com/RushilMahadevu/PyNavFS)** | File Explorer System in terminal (Python)
 
 ## ⚙️ Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
