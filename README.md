@@ -30,6 +30,7 @@ I'm a 14-year-old developer who likes web development, algorithms, and python.
 <br />
 
 <div align="center">
+    
 ## 🌍 Language Overview
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@42420da7-f40d-4a0b-a1c8-c1c1c8d2557b/5070d0f8-5a43-4889-8ad5-4ae94a9548e5.png" /></a>
