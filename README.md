@@ -8,7 +8,7 @@ I'm a 14-year-old developer who likes web development, algorithms, and python.
 <br />
 
 ## 📽️ Projects 
-- 📍 **[Optimapped](https://github.com/RushilMahadevu/optimapped) |  Focus Mapping for Better Concentration (TypeScript)
+- 👀 **[Optimapped](https://github.com/RushilMahadevu/optimapped)** |  Focus Mapping for Better Concentration (TypeScript)
 - 🎓 **[Kalimu](https://github.com/RushilMahadevu/kalimu)** | AI-powered education roadmap (JavaScript)
 - 🪨 **[Pebblo](https://github.com/RushilMahadevu/Pebblo)** | A platform for micro-challenges that promote personal growth and community impact. (TypeScript)
 - 🗺️ **[RB-BFS-MazeEngine](https://github.com/RushilMahadevu/LeetCode)** | Maze solver using recursive backtracking and BFS (Python)
