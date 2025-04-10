@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm a 14-year-old developer who likes web development, algorithms, and python.
+I'm a 15-year-old developer who likes web development, algorithms, and python.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/RushilMahadevu/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18443852/rushil-mahadevu)
