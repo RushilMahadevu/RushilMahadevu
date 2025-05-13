@@ -8,13 +8,13 @@ I'm a 15-year-old developer who likes web development, algorithms, and python.
 <br />
 
 ## 📽️ Projects 
+- 🏃 **[Strides Over Stigma](https://github.com/RushilMahadevu/stridesoverstigma)** | A Reno-based nonprofit running organization focused on community, mental health, and events. (TypeScript)
 - 👀 **[Optimapped](https://github.com/RushilMahadevu/optimapped)** |  Focus Mapping for Better Concentration (TypeScript)
 - 🎓 **[Kalimu](https://github.com/RushilMahadevu/kalimu)** | AI-powered education roadmap (JavaScript)
 - 🪨 **[Pebblo](https://github.com/RushilMahadevu/Pebblo)** | A platform for micro-challenges that promote personal growth and community impact. (TypeScript)
 - 🗺️ **[RB-BFS-MazeEngine](https://github.com/RushilMahadevu/LeetCode)** | Maze solver using recursive backtracking and BFS (Python)
 - 💻 **[LeetCode](https://github.com/RushilMahadevu/LeetCode)** | Personal collection of LeetCode solutions (Python)
 - ➗ **[React-SSS](https://github.com/RushilMahadevu/react-sss)** | Square root calculator via successive subtraction (JavaScript)
-- ⏲️ **[React-Pomodoro](https://github.com/RushilMahadevu/react-pomodoro)** | Simple pomodoro timer (JavaScript)
 
 ## ⚙️ Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
