@@ -8,7 +8,7 @@ I'm a 15-year-old developer who likes web development, algorithms, and python.
 <br />
 
 ## 📽️ Projects 
-- 🏃 **[Strides Over Stigma](https://github.com/RushilMahadevu/stridesoverstigma)** | A Reno-based nonprofit running organization focused on community, mental health, and events. (TypeScript)
+- 🏃 **[Strides Over Stigma](https://github.com/RushilMahadevu/stridesoverstigma)** | A Reno-based running organization focused on community, mental health, and events. (TypeScript)
 - 👀 **[Optimapped](https://github.com/RushilMahadevu/optimapped)** |  Focus Mapping for Better Concentration (TypeScript)
 - 🎓 **[Kalimu](https://github.com/RushilMahadevu/kalimu)** | AI-powered education roadmap (JavaScript)
 - 🪨 **[Pebblo](https://github.com/RushilMahadevu/Pebblo)** | A platform for micro-challenges that promote personal growth and community impact. (TypeScript)
