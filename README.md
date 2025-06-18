@@ -9,7 +9,7 @@ I'm a 15-year-old developer who likes web development, algorithms, and python.
 
 ## 📽️ Projects 
 - 🏃 **[Strides Over Stigma](https://github.com/RushilMahadevu/stridesoverstigma)** | A Reno-based running organization focused on community, mental health, and events. (TypeScript)
-- 👀 **[NFTruth](https://github.com/RushilMahadevu/NFTruth)** |  NFTruth is an intelligent system that analyzes NFT collections to determine their legitimacy and detect potential scams. (Python)
+- 👀 **[NFTruth](https://github.com/RushilMahadevu/NFTruth)** |  An intelligent system that analyzes NFT collections to determine their legitimacy and detect potential scams. (Python)
 - 🎓 **[Kalimu](https://github.com/RushilMahadevu/kalimu)** | AI-powered education roadmap (JavaScript)
 - 🪨 **[Pebblo](https://github.com/RushilMahadevu/Pebblo)** | A platform for micro-challenges that promote personal growth and community impact. (TypeScript)
 - 🗺️ **[RB-BFS-MazeEngine](https://github.com/RushilMahadevu/LeetCode)** | Maze solver using recursive backtracking and BFS (Python)
