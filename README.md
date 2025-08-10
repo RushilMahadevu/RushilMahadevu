@@ -5,16 +5,6 @@ I'm a 15-year-old developer who likes web development, algorithms, and python.
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/RushilMahadevu/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18443852/rushil-mahadevu)
 
-<br />
-
-## 📽️ Projects 
-- 🏃 **[Strides Over Stigma](https://github.com/RushilMahadevu/stridesoverstigma)** | A Reno-based running organization focused on community, mental health, and events. (TypeScript)
-- 🔍 **[NFTruth](https://github.com/RushilMahadevu/NFTruth)** |  An AI powered intelligent system that analyzes NFT collections to determine their legitimacy. (Python)
-- 🎓 **[Kalimu](https://github.com/RushilMahadevu/kalimu)** | AI-powered education roadmap (JavaScript)
-- 🗺️ **[maze-architecture-framework](https://github.com/RushilMahadevu/LeetCode)** | Maze solver using recursive backtracking and BFS (Python)
-- 💻 **[LeetCode](https://github.com/RushilMahadevu/LeetCode)** | Personal collection of LeetCode solutions (Python)
-- 🧭 **[Portfolio](https://github.com/RushilMahadevu/portfolio)** | A simple minimalistic portfolio of me (JavaScript)
-
 ## ⚙️ Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
