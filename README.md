@@ -1,5 +1,4 @@
-# Hello! 👋
+# probably working on a passion project
+portfolio @ (https://rushil-m.web.app)
 
-I'm a high-school student in the class of 2028.
-
-Learn more about me [here](https://rushil-m.web.app).
+contact me @ rushil.mahadevu@gmail.com
