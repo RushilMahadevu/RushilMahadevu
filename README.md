@@ -1,4 +1,4 @@
 # probably working on a passion project
-portfolio @ (https://rushil-m.web.app)
+portfolio @ (https://rushilmahadevu.com)
 
 contact me @ rushil.mahadevu@gmail.com
